@@ -11,7 +11,7 @@ Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
 
 ########################################################################
 #
-# TODO: 2.
+#   DONE: 2
 #   Write code that accomplishes the following (and ONLY the following),
 #   in the order listed:
 #
@@ -49,9 +49,9 @@ window = rg.TurtleWindow()
 
 billy = rg.SimpleTurtle()
 billy.pen = rg.Pen('blue', 1)
-billy.speed = 30
+billy.speed = 10
 
-
+billy.left(90)
 billy.forward(200)
 billy.pen_up()
 
