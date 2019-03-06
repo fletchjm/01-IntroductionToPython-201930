@@ -128,3 +128,16 @@ print(3607*34227)
 #   DO IT FREQUENTLY; AT LEAST once per module.
 #
 ###############################################################################
+
+
+print(3 * ('hi'+'bye'))
+
+
+import math
+
+print(math.factorial(20))
+
+import rosegraphics as rg
+
+rg.Do
+
